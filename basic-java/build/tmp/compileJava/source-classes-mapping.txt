@@ -1,0 +1,10 @@
+com/basic-java/algorithm/sort/bubble/App.java
+ com.basic-java.algorithm.sort.bubble.App
+com/basic-java/algorithm/sort/selection/App.java
+ com.basic-java.algorithm.sort.selection.App
+com/basic-java/basic/hello_world/App.java
+ com.basic-java.basic.hello_world.App
+com/basic-java/basic/stream/App.java
+ com.basic-java.basic.stream.App
+com/basic-java/algorithm/sort/insertion/App.java
+ com.basic-java.algorithm.sort.insertion.App
