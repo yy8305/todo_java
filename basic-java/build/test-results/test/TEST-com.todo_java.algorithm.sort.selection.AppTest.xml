@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.basic-java.algorithm.sort.selection.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-10T02:21:15" hostname="DESKTOP-3C4GDD9" time="0.019">
-  <properties/>
-  <testcase name="apptest �봽由고듃 �뀒�뒪�듃" classname="com.basic-java.algorithm.sort.selection.AppTest" time="0.019"/>
-  <system-out><![CDATA[test
-false
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -1,6 +1,0 @@
-com/basic-java/algorithm/sort/selection/AppTest.java
- com.basic-java.algorithm.sort.selection.AppTest
-com/basic-java/basic/hello_world/AppTest.java
- com.basic-java.basic.hello_world.AppTest
-com/basic-java/basic/stream/AppTest.java
- com.basic-java.basic.stream.AppTest
